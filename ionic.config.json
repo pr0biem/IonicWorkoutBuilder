@@ -1,5 +1,7 @@
 {
   "name": "RoutineBuilder",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
